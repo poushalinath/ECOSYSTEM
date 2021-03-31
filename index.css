@@ -4,13 +4,13 @@ body {
     font-family: cursive;
     background-color: yellowgreen;
   }
-  .blog-heading {
+  .index-heading {
     text-align: center;
     font-size: 65px;
     font-family: cursive;
     color: wheat;
   }
-  .blog-image {
+  .index-image {
     display: block;
     margin: 40px;
     margin-left: auto;
@@ -19,7 +19,7 @@ body {
     width: 50%;
     border-radius: 50%;
   }
-  .blog-text {
+  .index-text {
     font-family: cursive;
     font-size: 20px;
     text-align: center;
